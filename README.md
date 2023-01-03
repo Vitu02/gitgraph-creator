@@ -9,7 +9,7 @@ Website that aims to provide an easy way to create a git graph using [`gitgraph.
 ## Installing
 
 ```
-$ git clone https://github.com/SamuelPinho/gitgraph-creator.git
+$ git clone https://github.com/Vitu02/gitgraph-creator.git
 $ cd gitgraph-creator
 $ yarn
 $ yarn start
@@ -23,4 +23,4 @@ $ yarn start
 
 ## License
 
-MIT © [Samuel Monteiro](https://samuelmonteiro.netlify.com/)
+MIT © 
