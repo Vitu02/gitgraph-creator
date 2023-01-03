@@ -1,6 +1,8 @@
 <h1 align="center">git-graph-creator 🐙</h1>
-
-👉 https://git-graph-creator.netlify.app/
+(Editor)
+👉 https://git-graph-creator.netlify.app/   
+(JSON Import )
+👉 http://j-barata.github.io/react-gitgraph-demo  
 
 Website that aims to provide an easy way to create a git graph using [`gitgraph.js`](https://github.com/nicoespeon/gitgraph.js) to create the graph svg.
 
