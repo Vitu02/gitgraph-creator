@@ -113,7 +113,7 @@ const GitProvider = ({ children }: GitProviderProps) => {
   };
 
   useEffect(() => {
-    graphAPI.branch("Sacred TimeLine").commit({
+    graphAPI.branch("master").commit({
       subject: "first commit message",
       onClick: handleOnClick,
     });
